@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="116px" height="105px" viewBox="0 0 116 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>MARK_-_Social</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#01BCAB" offset="0%"></stop>
+            <stop stop-color="#4DD0C4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="27.5705534%" y1="26.0490127%" x2="81.9845335%" y2="72.6633094%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1501_IFOK_WIM_STUSTAINABILITY_for_svg_je-Kopie-01-01" transform="translate(-1247.000000, -444.000000)">
+            <g id="stustainability-big" transform="translate(329.000000, 210.000000)">
+                <g id="MARK_-_Social" transform="translate(919.000000, 234.000000)">
+                    <polygon id="Path" fill="#99E4DD" fill-rule="nonzero" points="99.498 81.258 99.498 50.273 56.932 34.78 14.367 50.273 14.367 81.258 56.932 96.75"></polygon>
+                    <polygon id="Path" fill="#4DD0C4" fill-rule="nonzero" points="99.498 72.655 99.498 41.67 56.932 26.178 14.367 41.67 14.367 72.655 56.932 88.148"></polygon>
+                    <rect id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero" x="54.055" y="59.396" width="44.919" height="10.87"></rect>
+                    <polygon id="Path" stroke="#01BCAB" stroke-width="1.83485373" points="113.696 83.194 113.696 41.873 56.932 21.213 0.168 41.873 0.168 83.194 56.932 103.854"></polygon>
+                    <polygon id="Path" fill="#CCF2EE" fill-rule="nonzero" points="84.961 39.296 84.961 13.629 57.607 0.795 30.253 13.629 30.253 39.296 57.607 52.13"></polygon>
+                    <polygon id="Path" fill="#01BCAB" fill-rule="nonzero" points="84.961 52.117 84.961 26.449 57.607 13.616 30.253 26.449 30.253 52.117 57.607 64.95"></polygon>
+                    <polygon id="Path" fill="#99E4DD" fill-rule="nonzero" points="57.607 0.795 57.607 13.616 84.961 26.449 84.961 13.629"></polygon>
+                    <polygon id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" opacity="0.2" points="35.176 24.14 69.938 58.901 84.961 52.117 84.961 43.768 55.704 14.512"></polygon>
+                    <path d="M62.405,41.651 L65.976,43.456 L63.269,47.556 C61.7970565,49.9914317 58.8581139,51.1147572 56.137,50.282" id="Path" stroke="#FFFFFF" stroke-width="1.57354662" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Path" stroke="#FFFFFF" stroke-width="1.57354662" stroke-linecap="round" stroke-linejoin="round" points="46.705 45.813 42.72 43.799 40.918 42.79 45.763 35.44 47.706 36.238 51.241 36.007 56.725 38.779"></polyline>
+                    <polygon id="Path" stroke="#FFFFFF" stroke-width="1.57354662" stroke-linecap="round" stroke-linejoin="round" points="57.15 37.848 55.488 43.877 57.387 44.898 62.673 41.786 65.976 43.456 62.084 48.873 74.791 42.936 69.184 34.432 63.845 36.6"></polygon>
+                    <polygon id="Path" stroke="#FFFFFF" stroke-width="1.57354662" stroke-linecap="round" stroke-linejoin="round" points="39.781 44.513 32.995 41.083 40.162 30.214 46.948 33.644"></polygon>
+                    <polygon id="Path" stroke="#FFFFFF" stroke-width="1.57354662" stroke-linecap="round" stroke-linejoin="round" points="75.433 43.908 82.218 40.478 75.051 29.609 68.266 33.039"></polygon>
+                    <polygon id="Path" stroke="#FFFFFF" stroke-width="1.57354662" stroke-linecap="round" stroke-linejoin="round" points="54.902 52.161 46.097 47.71 48.448 44.145 57.252 48.596"></polygon>
+                    <ellipse id="Oval" stroke="#FFFFFF" stroke-width="1.57354662" stroke-linecap="round" stroke-linejoin="round" cx="38.101" cy="39.851" rx="1.224" ry="1.072"></ellipse>
+                    <ellipse id="Oval" stroke="#FFFFFF" stroke-width="1.57354662" stroke-linecap="round" stroke-linejoin="round" cx="77.096" cy="39.851" rx="1.224" ry="1.072"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

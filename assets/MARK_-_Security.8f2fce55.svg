@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="117px" height="106px" viewBox="0 0 117 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>MARK_-_Security</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#D8A84A" offset="0%"></stop>
+            <stop stop-color="#E4C280" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="27.5705534%" y1="26.0490127%" x2="81.9845335%" y2="72.6633094%" id="linearGradient-2">
+            <stop stop-color="#F3CDBC" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1701_IFOK_WIM_SOUVERENETY_for_svg_je-01" transform="translate(-1289.000000, -471.000000)">
+            <g id="souverenty-big" transform="translate(199.000000, 222.000000)">
+                <g id="MARK_-_Security" transform="translate(1091.000000, 249.000000)">
+                    <polygon id="Path" fill="#F3E5C9" fill-rule="nonzero" points="100.069 81.905 100.069 50.92 57.503 35.428 14.938 50.92 14.938 81.905 57.503 97.398"></polygon>
+                    <polygon id="Path" fill="#E4C280" fill-rule="nonzero" points="100.069 73.303 100.069 42.318 57.503 26.826 14.938 42.318 14.938 73.303 57.503 88.796"></polygon>
+                    <rect id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero" x="54.626" y="58.044" width="44.919" height="10.87"></rect>
+                    <polygon id="Path" stroke="#D8A84A" stroke-width="1.81082448" points="114.267 83.842 114.267 42.521 57.503 21.861 0.739 42.521 0.739 83.842 57.503 104.502"></polygon>
+                    <polygon id="Path" fill="#FBF6ED" fill-rule="nonzero" points="85.532 38.979 85.532 13.312 58.178 0.478 30.824 13.312 30.824 38.979 58.178 51.813"></polygon>
+                    <polygon id="Path" fill="#D8A84A" fill-rule="nonzero" points="85.532 51.8 85.532 26.132 58.178 13.299 30.824 26.132 30.824 51.8 58.178 64.633"></polygon>
+                    <polygon id="Path" fill="#F3E5C9" fill-rule="nonzero" points="58.178 0.478 58.178 13.299 85.532 26.132 85.532 13.312"></polygon>
+                    <polygon id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" opacity="0.2" points="35.747 23.823 70.509 58.584 85.532 51.8 85.532 43.451 56.275 14.195"></polygon>
+                    <polygon id="Path" stroke="#FFFFFF" stroke-width="1.78895332" stroke-linecap="round" stroke-linejoin="round" points="69.873 44.772 57.822 52.449 45.772 44.772 44.719 28.033 57.822 23.768 70.926 28.033"></polygon>
+                    <polygon id="Path" stroke="#FFFFFF" stroke-width="0.89447666" stroke-linecap="round" stroke-linejoin="round" points="67.134 43.258 57.822 49.19 48.51 43.258 47.696 30.322 57.822 27.026 67.949 30.322"></polygon>
+                    <polyline id="Path" stroke="#FFFFFF" stroke-width="1.78895332" stroke-linecap="round" stroke-linejoin="round" points="52.155 38.108 56.402 41.547 64.007 35.39"></polyline>
+                    <path d="M57.822,28.353 L57.822,36.811" id="Path" stroke="#FFFFFF" stroke-width="0.89447666" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M57.822,47.473 L57.822,43.564" id="Path" stroke="#FFFFFF" stroke-width="0.89447666" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Path" stroke="#FFFFFF" stroke-width="0.89447666" stroke-linecap="round" stroke-linejoin="round" points="73.881 34.036 73.138 45.838 62.762 52.449"></polyline>
+                    <polyline id="Path" stroke="#FFFFFF" stroke-width="0.89447666" stroke-linecap="round" stroke-linejoin="round" points="42.128 35.621 41.536 26.216 52.155 22.76"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

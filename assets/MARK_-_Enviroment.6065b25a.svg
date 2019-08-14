@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="117px" height="105px" viewBox="0 0 117 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>MARK_-_Enviroment</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#01BCAB" offset="0%"></stop>
+            <stop stop-color="#4DD0C4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="27.5705534%" y1="26.0490127%" x2="81.9845335%" y2="72.6633094%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1501_IFOK_WIM_STUSTAINABILITY_for_svg_je-Kopie-01-01" transform="translate(-1106.000000, -681.000000)">
+            <g id="stustainability-big" transform="translate(329.000000, 210.000000)">
+                <g id="MARK_-_Enviroment" transform="translate(778.000000, 471.000000)">
+                    <polygon id="Path" fill="#99E4DD" fill-rule="nonzero" points="100.149 80.48 100.149 49.495 57.584 34.003 15.019 49.495 15.019 80.48 57.584 95.973"></polygon>
+                    <polygon id="Path" fill="#4DD0C4" fill-rule="nonzero" points="100.149 71.878 100.149 40.893 57.584 25.4 15.019 40.893 15.019 71.878 57.584 87.37"></polygon>
+                    <rect id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero" x="54.707" y="58.618" width="44.919" height="10.87"></rect>
+                    <polygon id="Path" stroke="#01BCAB" stroke-width="1.83485373" points="114.348 82.417 114.348 41.096 57.584 20.436 0.82 41.096 0.82 82.417 57.584 103.077"></polygon>
+                    <polygon id="Path" fill="#CCF2EE" fill-rule="nonzero" points="85.613 38.554 85.613 12.887 58.259 0.053 30.905 12.887 30.905 38.554 58.259 51.388"></polygon>
+                    <polygon id="Path" fill="#01BCAB" fill-rule="nonzero" points="85.613 51.374 85.613 25.707 58.259 12.874 30.905 25.707 30.905 51.374 58.259 64.208"></polygon>
+                    <polygon id="Path" fill="#99E4DD" fill-rule="nonzero" points="58.259 0.053 58.259 12.874 85.613 25.707 85.613 12.887"></polygon>
+                    <polygon id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" opacity="0.2" points="35.828 23.397 70.59 58.159 85.613 51.374 85.613 43.026 56.356 13.77"></polygon>
+                    <path d="M56.578,30.763 C56.578,34.281 53.355,37.133 49.378,37.133 C47.4113652,37.1536931 45.5126785,36.4142801 44.078,35.069" id="Path" stroke="#FFFFFF" stroke-width="1.57354662" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="46.203 33.852 41.634 32.719 42.936 37.242"></polygon>
+                    <path d="M42.087,30.516 C42.087,26.999 45.31,24.147 49.287,24.147 C51.253459,24.1262438 53.152053,24.8652625 54.587,26.21" id="Path" stroke="#FFFFFF" stroke-width="1.57354662" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="52.462 27.427 57.03 28.561 55.729 24.037"></polygon>
+                    <path d="M70.96,47.833 L74.06,36.954 C74.305,36.362 74.697,35.194 74.186,34.964 C73.927,34.513 72.607,34.864 71.938,35.076 L59.638,37.814 C53.486,39.805 51.404,46.358 55.007,50.872 L56.202,51.93 C61.3,55.118 68.71,53.275 70.96,47.833 Z" id="Path" stroke="#FFFFFF" stroke-width="1.57354662" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M74.182,34.964 L55.603,51.401" id="Path" stroke="#FFFFFF" stroke-width="1.57354662" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M70.71,47.611 L58.295,49.091" id="Path" stroke="#FFFFFF" stroke-width="1.57354662" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M59.887,38.036 L58.214,49.02" id="Path" stroke="#FFFFFF" stroke-width="1.57354662" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M71.709,44.94 L61.824,45.982" id="Path" stroke="#FFFFFF" stroke-width="1.57354662" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M63.104,36.976 L61.744,45.91" id="Path" stroke="#FFFFFF" stroke-width="1.57354662" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M72.563,42.013 L65.613,42.745" id="Path" stroke="#FFFFFF" stroke-width="1.57354662" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M66.531,36.116 L65.533,42.674" id="Path" stroke="#FFFFFF" stroke-width="1.57354662" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M55.6,51.4 C55.6,51.4 53.062,54.072 51.061,53.565" id="Path" stroke="#FFFFFF" stroke-width="1.57354662" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

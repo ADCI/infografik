@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="116px" height="105px" viewBox="0 0 116 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>MARK_-_Standards</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#0778A5" offset="0%"></stop>
+            <stop stop-color="#51A0C0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="27.5705534%" y1="26.0493686%" x2="81.9865421%" y2="72.6647155%" id="linearGradient-2">
+            <stop stop-color="#B5D6E4" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1601_IFOK_WIM_INTEROPERABILITY_for_svg_je-Kopie-01-01" transform="translate(-1029.000000, -769.000000)">
+            <g id="interoperability" transform="translate(329.000000, 170.000000)">
+                <g id="MARK_-_Standards" transform="translate(701.000000, 599.000000)">
+                    <polygon id="Path" fill="#B5D6E4" fill-rule="nonzero" points="99.737 80.768 99.737 49.783 57.171 34.29 14.606 49.783 14.606 80.768 57.171 96.261"></polygon>
+                    <polygon id="Path" fill="#51A0C0" fill-rule="nonzero" points="99.737 72.166 99.737 41.181 57.171 25.688 14.606 41.181 14.606 72.166 57.171 87.658"></polygon>
+                    <rect id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero" x="54.294" y="58.906" width="44.919" height="10.87"></rect>
+                    <polygon id="Path" stroke="#0778A5" stroke-width="1.83485282" points="113.935 82.705 113.935 41.384 57.171 20.723 0.407 41.384 0.407 82.705 57.171 103.365"></polygon>
+                    <polygon id="Path" fill="#E6F1F6" fill-rule="nonzero" points="85.2 38.526 85.2 12.859 57.846 0.025 30.492 12.859 30.492 38.526 57.846 51.36"></polygon>
+                    <polygon id="Path" fill="#0778A5" fill-rule="nonzero" points="85.2 51.346 85.2 25.679 57.846 12.845 30.492 25.679 30.492 51.346 57.846 64.18"></polygon>
+                    <polygon id="Path" fill="#B5D6E4" fill-rule="nonzero" points="57.846 0.025 57.846 12.845 85.2 25.679 85.2 12.859"></polygon>
+                    <polygon id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" opacity="0.2" points="35.415 23.369 70.177 58.131 85.2 51.346 85.2 42.998 55.943 13.741"></polygon>
+                    <polygon id="Path" stroke="#FFFFFF" stroke-width="1.57354658" points="40.679 25.415 53.479 25.415 53.479 29.046 45.593 33.288 45.593 41.771 53.479 46.013 53.479 49.442 40.679 49.442"></polygon>
+                    <polygon id="Path" stroke="#FFFFFF" stroke-width="1.57354658" points="70.067 42.213 70.067 33.73 62.18 29.488 54.294 33.73 54.294 42.213 62.18 46.455"></polygon>
+                    <path d="M55.999,25.223 L61.93,25.223" id="Path" stroke="#FFFFFF" stroke-width="1.57354658"></path>
+                    <path d="M55.999,26.88 L59.041,26.88" id="Path" stroke="#FFFFFF" stroke-width="1.57354658"></path>
+                    <path d="M72.23,33.922 L78.161,33.922" id="Path" stroke="#FFFFFF" stroke-width="1.57354658"></path>
+                    <path d="M72.23,35.579 L75.272,35.579" id="Path" stroke="#FFFFFF" stroke-width="1.57354658"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

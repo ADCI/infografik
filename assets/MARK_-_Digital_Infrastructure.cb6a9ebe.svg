@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="117px" height="106px" viewBox="0 0 117 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>MARK_-_Digital_Infrastructure</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#D8A84A" offset="0%"></stop>
+            <stop stop-color="#E4C280" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="27.5705534%" y1="26.0508036%" x2="81.9845335%" y2="72.6633094%" id="linearGradient-2">
+            <stop stop-color="#F3CDBC" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1701_IFOK_WIM_SOUVERENETY_for_svg_je-01" transform="translate(-1042.000000, -794.000000)">
+            <g id="souverenty-big" transform="translate(199.000000, 222.000000)">
+                <g id="MARK_-_Digital_Infrastructure" transform="translate(844.000000, 572.000000)">
+                    <polygon id="Path" fill="#F3E5C9" fill-rule="nonzero" points="99.937 81.956 99.937 50.971 57.371 35.478 14.806 50.971 14.806 81.956 57.371 97.448"></polygon>
+                    <polygon id="Path" fill="#E4C280" fill-rule="nonzero" points="99.937 73.353 99.937 42.368 57.371 26.876 14.806 42.368 14.806 73.353 57.371 88.846"></polygon>
+                    <rect id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero" x="54.494" y="58.094" width="44.919" height="10.87"></rect>
+                    <polygon id="Path" stroke="#D8A84A" stroke-width="1.81082448" points="114.135 83.892 114.135 42.571 57.371 21.911 0.607 42.571 0.607 83.892 57.371 104.553"></polygon>
+                    <polygon id="Path" fill="#FBF6ED" fill-rule="nonzero" points="85.4 39.029 85.4 13.362 58.046 0.529 30.692 13.362 30.692 39.029 58.046 51.863"></polygon>
+                    <polygon id="Path" fill="#D8A84A" fill-rule="nonzero" points="85.4 51.85 85.4 26.183 58.046 13.349 30.692 26.183 30.692 51.85 58.046 64.684"></polygon>
+                    <polygon id="Path" fill="#F3E5C9" fill-rule="nonzero" points="58.046 0.529 58.046 13.349 85.4 26.183 85.4 13.362"></polygon>
+                    <polygon id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" opacity="0.2" points="35.615 23.873 70.377 58.634 85.4 51.85 85.4 43.502 56.143 14.245"></polygon>
+                    <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round" x="51.011" y="22.918" width="5.131" height="10.72"></rect>
+                    <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round" x="56.142" y="22.918" width="8.938" height="10.72"></rect>
+                    <path d="M52.232,24.426 L54.922,24.426" id="Path" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M52.232,26.226 L54.922,26.226" id="Path" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M52.232,28.025 L54.922,28.025" id="Path" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M52.232,29.825 L54.922,29.825" id="Path" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M52.232,31.625 L54.922,31.625" id="Path" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round" x="39.693" y="38.709" width="5.131" height="10.72"></rect>
+                    <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round" x="44.824" y="38.709" width="8.938" height="10.72"></rect>
+                    <path d="M40.913,40.217 L43.603,40.217" id="Path" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M40.913,42.017 L43.603,42.017" id="Path" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M40.913,43.816 L43.603,43.816" id="Path" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M40.913,45.616 L43.603,45.616" id="Path" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M40.913,47.416 L43.603,47.416" id="Path" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round" x="62.33" y="38.709" width="5.131" height="10.72"></rect>
+                    <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round" x="67.461" y="38.709" width="8.938" height="10.72"></rect>
+                    <path d="M63.551,40.217 L66.24,40.217" id="Path" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M63.551,42.017 L66.24,42.017" id="Path" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M63.551,43.816 L66.24,43.816" id="Path" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M63.551,45.616 L66.24,45.616" id="Path" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M63.551,47.416 L66.24,47.416" id="Path" stroke="#FFFFFF" stroke-width="0.918329371" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M47.746,32.788 L42.783,36.338" id="Path" stroke="#FFFFFF" stroke-width="1.78895332" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M68.346,32.788 L73.309,36.338" id="Path" stroke="#FFFFFF" stroke-width="1.78895332" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M55.974,44.069 L60.117,44.069" id="Path" stroke="#FFFFFF" stroke-width="1.78895332" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="116px" height="106px" viewBox="0 0 116 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>MARK_-_Good_Work</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="99.9977703%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#01BCAB" offset="0%"></stop>
+            <stop stop-color="#4DD0C4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="27.5705534%" y1="26.0490127%" x2="81.9845335%" y2="72.6633094%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1501_IFOK_WIM_STUSTAINABILITY_for_svg_je-Kopie-01-01" transform="translate(-791.000000, -211.000000)">
+            <g id="stustainability-big" transform="translate(329.000000, 210.000000)">
+                <g id="MARK_-_Good_Work" transform="translate(463.000000, 1.000000)">
+                    <polygon id="Path" fill="#99E4DD" fill-rule="nonzero" points="99.338 82.441 99.338 51.504 56.838 36.035 14.338 51.504 14.338 82.441 56.838 97.91"></polygon>
+                    <polygon id="Path" fill="#4DD0C4" fill-rule="nonzero" points="99.338 73.852 99.338 42.915 56.838 27.446 14.338 42.915 14.338 73.852 56.838 89.321"></polygon>
+                    <rect id="Rectangle" fill="url(#linearGradient-1)" fill-rule="nonzero" x="53.966" y="59.625" width="44.85" height="10.854"></rect>
+                    <polygon id="Path" stroke="#01BCAB" stroke-width="1.83202864" points="113.515 84.375 113.515 43.118 56.838 22.489 0.161 43.118 0.161 84.375 56.838 105.003"></polygon>
+                    <polygon id="Path" fill="#CCF2EE" fill-rule="nonzero" points="84.866 39.427 84.866 13.76 57.512 0.926 30.158 13.76 30.158 39.427 57.512 52.261"></polygon>
+                    <polygon id="Path" fill="#01BCAB" fill-rule="nonzero" points="84.866 52.248 84.866 26.581 57.512 13.747 30.158 26.581 30.158 52.248 57.512 65.082"></polygon>
+                    <polygon id="Path" fill="#99E4DD" fill-rule="nonzero" points="57.512 0.926 57.512 13.747 84.866 26.581 84.866 13.76"></polygon>
+                    <polygon id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" opacity="0.2" points="35.081 24.271 69.843 59.032 84.866 52.248 84.866 43.9 55.609 14.643"></polygon>
+                    <polyline id="Path" stroke="#FFFFFF" stroke-width="1.57354904" stroke-linecap="round" stroke-linejoin="round" points="51.638 47.989 46.031 47.989 46.031 22.406 63.593 22.406 68.992 26.481 68.992 47.989 63.593 47.989"></polyline>
+                    <polygon id="Path" stroke="#FFFFFF" stroke-width="1.57354904" stroke-linecap="round" stroke-linejoin="round" points="63.593 26.481 63.593 22.406 68.992 26.481"></polygon>
+                    <path d="M48.93,24.87 L60.297,24.87" id="Path" stroke="#FFFFFF" stroke-width="1.57354904" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M48.716,29.915 L66.391,29.915" id="Path" stroke="#FFFFFF" stroke-width="1.57354904" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M48.716,32.829 L66.391,32.829" id="Path" stroke="#FFFFFF" stroke-width="1.57354904" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M48.716,35.743 L66.391,35.743" id="Path" stroke="#FFFFFF" stroke-width="1.57354904" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <ellipse id="Oval" stroke="#FFFFFF" stroke-width="1.57354904" stroke-linecap="round" stroke-linejoin="round" cx="57.554" cy="44.815" rx="6.593" ry="5.496"></ellipse>
+                    <polyline id="Path" stroke="#FFFFFF" stroke-width="1.57354904" stroke-linecap="round" stroke-linejoin="round" points="50.952 44.571 51.027 56.422 57.554 52.632 64.146 56.422 64.072 44.335"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
